@@ -1,10 +1,14 @@
 1189718 
 1226287
-# Schede madri
+# Inventario
+
+### Schede madri
 [Schede_Madri](./schede_madri.md)
 
-#Processori
+### Processori
 
 [Processori](./processori.md)
+
+## Periferiche
 
 Elettronica Padovana
