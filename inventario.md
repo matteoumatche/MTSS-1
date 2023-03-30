@@ -3,11 +3,11 @@
 # Inventario
 ## Componenti
 ### Schede madri
-[Schede_Madri](./schede_madri.md)
+[Schede_Madri](./componenti/schede_madri.md)
 
 ### Processori
 
-[Processori](./processori.md)
+[Processori](./componenti/processori.md)
 
 
 
