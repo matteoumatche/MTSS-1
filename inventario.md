@@ -10,7 +10,6 @@
 [Processori](./componenti/processori.md)
 
 
-
 ## Periferiche
 ### Tastiere
 [Tastiere](./periferiche/tastiere.md)
