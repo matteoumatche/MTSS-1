@@ -15,4 +15,8 @@
 ### Tastiere
 [Tastiere](./periferiche/tastiere.md)
 
+### Mouse
+
+[Mouse](./periferiche/mouse.md)
+
 Elettronica Padovana
